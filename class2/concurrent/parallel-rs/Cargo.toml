@@ -1,0 +1,9 @@
+[package]
+name = "parallel-rs"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rayon = "1.10.0"
+calculator = {path = "../../error-rs/calculator"}
+num-bigint = "0.4.6"

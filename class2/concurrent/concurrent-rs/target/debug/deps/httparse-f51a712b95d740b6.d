@@ -1,0 +1,10 @@
+/Users/jotalvaro/IUA/courses/Programming/classes/class2/concurrent/concurrent-rs/target/debug/deps/libhttparse-f51a712b95d740b6.rmeta: /Users/jotalvaro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.0/src/lib.rs /Users/jotalvaro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.0/src/iter.rs /Users/jotalvaro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.0/src/macros.rs /Users/jotalvaro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.0/src/simd/mod.rs /Users/jotalvaro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.0/src/simd/swar.rs /Users/jotalvaro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.0/src/simd/neon.rs
+
+/Users/jotalvaro/IUA/courses/Programming/classes/class2/concurrent/concurrent-rs/target/debug/deps/httparse-f51a712b95d740b6.d: /Users/jotalvaro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.0/src/lib.rs /Users/jotalvaro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.0/src/iter.rs /Users/jotalvaro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.0/src/macros.rs /Users/jotalvaro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.0/src/simd/mod.rs /Users/jotalvaro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.0/src/simd/swar.rs /Users/jotalvaro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.0/src/simd/neon.rs
+
+/Users/jotalvaro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.0/src/lib.rs:
+/Users/jotalvaro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.0/src/iter.rs:
+/Users/jotalvaro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.0/src/macros.rs:
+/Users/jotalvaro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.0/src/simd/mod.rs:
+/Users/jotalvaro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.0/src/simd/swar.rs:
+/Users/jotalvaro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.0/src/simd/neon.rs:

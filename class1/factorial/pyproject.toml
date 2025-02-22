@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "factorial"
+version = "0.1.0"
+description = ""
+authors = ["Julian D. Otalvaro <juliandavid347@gmail.com>"]
+readme = "README.md"
+
+
+[tool.poetry.dependencies]
+python = "^3.10"
+numpy = "^2.2.3"
+
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+

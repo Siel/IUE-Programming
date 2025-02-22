@@ -1,0 +1,1 @@
+/Users/jotalvaro/IUA/courses/Programming/classes/class1/calculadora/target/debug/examples/calcular: /Users/jotalvaro/IUA/courses/Programming/classes/class1/calculadora/examples/calcular.rs /Users/jotalvaro/IUA/courses/Programming/classes/class1/calculadora/src/lib.rs
